@@ -1,0 +1,1 @@
+Only some unpolished code for the advent of code 2025.
