@@ -1,0 +1,14 @@
+{
+  "type": "module",
+  "scripts": {
+    "c6.1": "tsx day6/challenge1.ts",
+    "c5.1": "tsx day5/challenge1.ts",
+    "c5.2": "tsx day5/challenge2.ts",
+    "c7.1": "tsx day7/challenge1.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}
